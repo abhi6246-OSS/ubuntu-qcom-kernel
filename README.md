@@ -27,6 +27,7 @@ contributions in this repository.
 | Doc | For |
 |-----|-----|
 | **[docs/INTEGRATION.md](docs/INTEGRATION.md)** | Qualcomm developers - working on `resolute-qcom-devel` |
+| **[docs/LOCAL-BUILD.md](docs/LOCAL-BUILD.md)** | Developers - building the kernel locally |
 | **[docs/PIPELINE.md](docs/PIPELINE.md)** | Maintainers - sync, build, and mirror operations |
 | **[CONTRIBUTING.md](CONTRIBUTING.md)** | This project is not accepting contributions |
 | **[SECURITY.md](SECURITY.md)** | This project is not actively maintained. It is a mirror. |
